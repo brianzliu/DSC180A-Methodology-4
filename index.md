@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: DSC180A Methodology Assignment 4
 ---
 Brian Liu
 bzl002@ucsd.edu
